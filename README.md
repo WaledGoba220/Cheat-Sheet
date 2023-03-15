@@ -1,5 +1,6 @@
 # Cheat-Sheet
-Cheat Sheet -  Numpy 
+
+-  Numpy 
 - Pandas  
 - Matplotlib 
 - Seaborn 

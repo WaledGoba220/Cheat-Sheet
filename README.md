@@ -1,2 +1,6 @@
 # Cheat-Sheet
-Cheat Sheet Numpy, Pandas , Matplotlib, Seaborn and Data_Wrangling
+Cheat Sheet -  Numpy 
+- Pandas  
+- Matplotlib 
+- Seaborn 
+- Data_Wrangling
